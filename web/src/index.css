@@ -1,0 +1,7 @@
+:local(.title) {
+  color: green;
+}
+
+:local(.paragraph) {
+  color: orange;
+}
